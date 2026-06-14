@@ -1,3 +1,4 @@
+//Have logic for finding second largest and smallest number in the array
 package MyCaptain_Task2;
 import java.util.*;
 public class Manipulation{
